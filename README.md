@@ -28,7 +28,7 @@ This wiki is provided as a guide for securing a website; it's not a guarantee of
 
 <br/>
 
-# ✅ Upcoming Checklists
+# ✅ Features
 
 -   [x] Authentication Security
     -   [x] User ID and Password
@@ -48,4 +48,4 @@ Please submit a pull request or create an issue.
 
 # 📜 License
 
-The project is under [Creative Commons Attribution-ShareAlike 4.0](LICENSE) license.
+This project is under [Creative Commons Attribution-ShareAlike 4.0](LICENSE) license.
