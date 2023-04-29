@@ -1,5 +1,5 @@
-<p style="text-align:center;">
-<img src="Assets/logo.png" alt="name" style="border-radius: 20px; width:500px"/>
+<p align="center">
+<img src="Assets/logo.png" width=500/>
 </p>
 
 <br/>
@@ -35,8 +35,8 @@ This wiki is provided as a guide for securing a website; it's not a guarantee of
     -   [x] Multi Factor
 -   [x] Authorization Security
 -   [x] Session Security
--   [] API Security
--   [] Library Security
+-   [ ] API Security
+-   [ ] Library Security
 
 # 🤝 Contribute
 
